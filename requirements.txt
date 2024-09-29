@@ -100,7 +100,7 @@ pip==24.2
 pipreqs==0.4.11
 Plost==0.2.5
 plotly==5.13.0
-prettytable==0.7.2
+pretty table==0.7.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.31
 protobuf==3.20.3
@@ -115,7 +115,6 @@ PyJWT==2.6.0
 Pympler==1.0.1
 PyMySQL==1.0.2
 pyparsing==3.0.9
-pyproj==3.5.0
 pyrsistent==0.18.1
 pytest==7.2.2
 python-dateutil==2.8.2
