@@ -117,5 +117,5 @@ pyparsing==3.0.9
 pyrsistent==0.18.1
 pytest==7.2.2
 python-dateutil==2.8.2
-scikit-learn==1.6.0
+scikit-learn==1.21.3
 streamlit==1.38.0
