@@ -100,7 +100,6 @@ pip==24.2
 pipreqs==0.4.11
 Plost==0.2.5
 plotly==5.13.0
-pretty table==0.7.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.31
 protobuf==3.20.3
